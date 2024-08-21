@@ -46,6 +46,10 @@
 
 ![Project Title](img/팀역활01.png)
 
+## 💹Gantt chart
+
+![Project Title](img/일정간트차트01.png)
+
 <br>
 
 </br>
@@ -61,14 +65,16 @@
 
 # 4. Project Process
 
-## 🦮비문 영상 처리부
-![Project Title](img/비문영상처리설명01.png)
+## 📥데이터 셋 구축 
+![Project Title](img/데이터셋구축03.png)
 
-![Project Title](img/비문영상처리설명02.png)
+![Project Title](img/데이터셋구축01.png)
 
+![Project Title](img/데이터셋구축02.png)
 
-## 🚪블록 체인 구현부 
-![Project Title](img/블록체인구현설명01.png)
+## 👋주요기능 구현
+
+![Project Title](img/주요기능표0101.png)
 
 ![Project Title](img/블록체인구현설명02.png)
 

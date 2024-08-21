@@ -59,7 +59,7 @@
 - [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw2ou2BhCCARIsANAwM2ElJwpX8AmXHdmDqeFXJeiNQMz6gyhSunPf7V0LzFr2tV11ZdIBClkaArGyEALw_wcB&gclsrc=aw.ds&hl=ko) 
 - [Dlib](https://dlib.net/)
 
-# 4. Project Process
+# 4. 📐Project Process
 
 ## 📥데이터 셋 구축 
 ![Project Title](img/데이터셋구축00.png)

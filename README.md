@@ -1,4 +1,4 @@
-# Dog Nose-Print Inquiry Service From Distributed DB Using Blockchain
+# 'Easy Hand' video conference support system
 
 
 <!--프로젝트 대문 이미지-->
@@ -42,7 +42,7 @@
 
 </br>
 
-# 4. 🌝Project Team
+# 2. 🌝Project Team
 
 ![Project Title](img/팀역활01.png)
 
@@ -76,18 +76,22 @@
 
 ![Project Title](img/주요기능표0101.png)
 
-![Project Title](img/블록체인구현설명02.png)
+![Project Title](img/주요기능01.png)
 
-![Project Title](img/블록체인구현설명03.png)
+![Project Title](img/주요기능02.png)
 
-![Project Title](img/블록체인구현설명04.png)
+![Project Title](img/주요기능03.png)
 
-![Project Title](img/블록체인블록구조01.png)
+![Project Title](img/주요기능04.png)
 
-(블록체인 블록 구조)
+![Project Title](img/주요기능05.png)
+
+![Project Title](img/주요기능06.png)
+
+![Project Title](img/주요기능07.png)
 
 
-## 📱어플리케이션 구현
+# 5. 자체 평가 의견
 ![Project Title](img/어플리케이션설명01.png)
 
 ![Project Title](img/어플리케이션설명02.png)

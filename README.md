@@ -116,7 +116,6 @@
 
 
 # Contact
-- 📧 wodud6423@kau.kr
-- 
+- 📧 염재영 -  wodud6423@kau.kr
 
 

@@ -90,6 +90,7 @@
 
 ![Project Title](img/주요기능07.png)
 
+![Project Title](img/주요기능08.png)
 
 # 5. 자체 평가 의견
 ![Project Title](img/어플리케이션설명01.png)

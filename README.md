@@ -1,9 +1,5 @@
 # 'Easy Hand' video conference support system
 
-
-<!--프로젝트 대문 이미지-->
-![Project Title](img/projecttitle.png)
-
 ## ✋'손' 쉬운 화상 회의 지원 시스템
 
 <br>
@@ -66,15 +62,13 @@
 # 4. Project Process
 
 ## 📥데이터 셋 구축 
-![Project Title](img/데이터셋구축03.png)
+![Project Title](img/데이터셋구축00.png)
 
 ![Project Title](img/데이터셋구축01.png)
 
 ![Project Title](img/데이터셋구축02.png)
 
 ## 👋주요기능 구현
-
-![Project Title](img/주요기능표0101.png)
 
 ![Project Title](img/주요기능01.png)
 
@@ -92,10 +86,20 @@
 
 ![Project Title](img/주요기능08.png)
 
-# 5. 자체 평가 의견
-![Project Title](img/어플리케이션설명01.png)
+# 5. 👧자체 평가 의견
 
-![Project Title](img/어플리케이션설명02.png)
+## 프로젝트 성능 평가 - 모델 성능 그래프(loss / epoch)
+![Project Title](img/프로젝트성능평가.png)
+
+- 처음 몇 에포크 동안 손실값이 크게 변동하고, 정확도도 불안정하게 변하는 걸 볼 수 있다.
+
+- 대략 50번째 에포크까지는 학습 정확도와 검증 정확도가 비슷하게 증가했다.
+
+- 특정 에포크에서 손실이 갑자기 급증하고, 정확도도 급격히 떨어지는 현상이 관찰되는데, 모델이 특정 배치에서 이상값(outliers)을 만났거나, 학습률이 너무 높아 모델이 과적합된 것으로 추정한다.
+
+## 
+
+![Project Title](img/프로젝트자체평가.png)
 
 ![Project Title](img/어플리케이션설명03.png)
 
